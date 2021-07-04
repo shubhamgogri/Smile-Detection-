@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmileDetection</string>
+    <string name="toggle">Toggle</string>
+    <string name="whiteBackgound">Add Layer</string>
+</resources>
